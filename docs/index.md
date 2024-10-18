@@ -9,24 +9,16 @@ KEYES Scratch 元件包套件主要由Robotale scratch和一块keyes NANO等组�
 2、套件清单
 
 
-
-
-
-
-
-
-
 |描述|数量|图片|
+|-|-|-|
 |keyes NANO for arduino 开发板|1|![](media/02b6ff5fc7791ba5f1d743e0c5007867.jpg)|
 |Robotale scratch|1|![](media/e275c7994e21e66be46f7cfff1856f77.jpg)|
 |USB线|1|![](media/90089935ecdeb33e8fd9b590c241a4e9.png)|
 |亚克力板（配螺丝）（9.5x5.5）|1|![](media/3c700d47ea143fe45ee4991bfa9e2f4b.png)|
-|螺钉 圆头 M3X6MM|8|![](media/64e10a7656fc23a72094869e18636f74.jpg)![](media/64e10a7656fc23a72094869e18636f74.jpg)![](media/64e10a7656fc23a72094869e18636f74.jpg)![](media/64e10a7656fc23a72094869e18636f74.jpg)![](media/64e10a7656fc23a72094869e18636f74.jpg)![](media/64e10a7656fc23a72094869e18636f74.jpg)![](media/64e10a7656fc23a72094869e18636f74.jpg)![](media/64e10a7656fc23a72094869e18636f74.jpg)|
-|六角铜柱 双通M3*10MM|4|![](media/773f2bfbc53255264f197af6ec6a447b.jpg)![](media/773f2bfbc53255264f197af6ec6a447b.jpg)![](media/773f2bfbc53255264f197af6ec6a447b.jpg)![](media/773f2bfbc53255264f197af6ec6a447b.jpg)|
+|螺钉 圆头 M3X6MM|8|![](media/64e10a7656fc23a72094869e18636f74.jpg)|
+|六角铜柱 双通M3*10MM|4|![](media/773f2bfbc53255264f197af6ec6a447b.jpg)|
 |音频线+鳄鱼夹线|4|![](media/675e77d6fb971a6778718697bd3f9900.jpg)|
 
-</tbody>
-</table>
 
 # 3、相关软件及驱动的安装方法 
 
