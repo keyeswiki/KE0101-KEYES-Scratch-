@@ -145,11 +145,11 @@ S4A15软件安装成功后，我们即可在该开发环境下编程，完成各
 
 实验器材如下
 
-nano ch340\*1
+nano ch340*1
 
-SCRACH\*1
+SCRACH*1
 
-USB Cable\*1
+USB Cable*1
 
 我们使用了SCRACH自带的LED灯。按照上图连接好后，就可以开始编写程序了。![](media/c70fe98ce64ceb364509863eb5eaf30b.png)
 
@@ -168,11 +168,11 @@ USB Cable\*1
 
 实验器材如下
 
-nano ch340\*1
+nano ch340*1
 
-SCRACH\*1
+SCRACH*1
 
-USB Cable\*1
+USB Cable*1
 
 我们使用了SCRACH自带的RGB灯。按照上图连接好后，就可以开始编写程序了。
 
@@ -192,11 +192,11 @@ USB Cable\*1
 
 实验器材如下
 
-nano ch340\*1
+nano ch340*1
 
-SCRACH\*1
+SCRACH*1
 
-USB Cable\*1
+USB Cable*1
 
 我们使用了Robotale SCRACH自带的LED灯。按照上图连接好电路后，就可以开始编写程序了。
 
@@ -220,11 +220,11 @@ USB Cable\*1
 
 实验器材如下
 
-nano ch340\*1
+nano ch340*1
 
-SCRACH\*1
+SCRACH*1
 
-USB Cable\*1
+USB Cable*1
 
 我们使用了Robotale SCRACH自带的按键和LED灯。按照上图连接好后，就可以开始编写程序了。
 
@@ -248,11 +248,11 @@ USB Cable\*1
 
 实验器材如下
 
-nano ch340\*1
+nano ch340*1
 
-SCRACH\*1
+SCRACH*1
 
-USB Cable\*1
+USB Cable*1
 
 我们使用了Robotale SCRACH自带的按键。按照上图连接好后，就可以开始编写程序了。
 
@@ -276,11 +276,11 @@ USB Cable\*1
 
 实验器材如下
 
-nano ch340\*1
+nano ch340*1
 
-SCRACH\*1
+SCRACH*1
 
-USB Cable\*1
+USB Cable*1
 
 按照上图连接好后，就可以开始编写程序了。
 
@@ -303,11 +303,11 @@ USB Cable\*1
 
 实验器材如下
 
-nano ch340\*1
+nano ch340*1
 
-SCRACH\*1
+SCRACH*1
 
-USB Cable\*1
+USB Cable*1
 
 按照上图连接好后，就可以开始编写程序了。
 
@@ -330,11 +330,11 @@ USB Cable\*1
 
 实验器材如下
 
-nano ch340\*1
+nano ch340*1
 
-SCRACH\*1
+SCRACH*1
 
-USB Cable\*1
+USB Cable*1
 
 按照上图连接好后，就可以开始编写程序了。
 
@@ -360,11 +360,11 @@ SCRACH板上D10的LED灯亮起。
 
 实验器材如下
 
-nano ch340\*1
+nano ch340*1
 
-SCRACH\*1
+SCRACH*1
 
-USB Cable\*1
+USB Cable*1
 
 按照上图连接好后，就可以开始编写程序了。
 
@@ -387,11 +387,11 @@ SCRACH板上D11的LED灯亮起。
 
 实验器材如下
 
-nano ch340\*1
+nano ch340*1
 
-SCRACH\*1
+SCRACH*1
 
-USB Cable\*1
+USB Cable*1
 
 连接好后，就可以开始编写程序了。
 
